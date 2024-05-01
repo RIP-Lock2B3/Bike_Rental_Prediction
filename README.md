@@ -18,10 +18,6 @@ Random Forest, Artificial Neural Nets are built, experimentally investigated, an
 practicality discussed. The results will be used to investigate consumer behavior on demand
 forecasting and the overall impact on the business as a whole.
 
-#
-
-![alt-text](img/giphy.gif)
-
 # Exploratory Data Analysis
 
 ![alt-text](img/eda.png)
